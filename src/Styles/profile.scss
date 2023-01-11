@@ -1,0 +1,34 @@
+.main-div{
+
+}
+.cover-div{
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    overflow:hidden
+}
+.cover-img{
+    position: relative;
+}
+.profile-box{
+
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 35%;
+}
+.info{
+    display: flex;
+    justify-content: center;
+}
+.info1{
+    display: flex;
+justify-content: space-around;
+} 
+.info2{
+    display: flex;
+    justify-content: space-between;
+    // align-items: flex-end;
+}

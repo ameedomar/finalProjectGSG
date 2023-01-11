@@ -1,0 +1,34 @@
+.calculator{
+    // background-color: aqua;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.display-amount{
+width:70%;
+height: 100%;
+padding: 10px 10px;
+background-color: #71bc93;
+color: white;
+border-radius: 8px;
+display: flex;
+justify-content: center;
+
+}
+.amount{
+    width: 50%;
+}
+.date-time{
+    color: white;
+}
+
+// .panel-heading{
+//     background-color: #71bc93;
+
+
+// }
+// .panel-body{
+//     color:#71bc93;
+// }
